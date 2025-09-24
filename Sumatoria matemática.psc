@@ -1,8 +1,5 @@
 Proceso sin_titulo
-	//Este archivo contiene un ejercicio de clase
-	Definir incremento Como Entero;
-	Definir division Como Real;
-	Definir suma Como Real;
+	
 	
 	suma=1;
 	
@@ -12,4 +9,5 @@ Proceso sin_titulo
 		Escribir "Resultado:", suma ;
 	Fin Para
 FinProceso
+
 
