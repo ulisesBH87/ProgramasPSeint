@@ -1,6 +1,6 @@
 Proceso sin_titulo
 	//Este archivo contiene un ejercicio de clase
-
+	//Comentario
 	Definir division Como Real;
 	Definir suma Como Real;
 	
